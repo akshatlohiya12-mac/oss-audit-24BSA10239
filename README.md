@@ -1,8 +1,8 @@
 # Project for Open Source Audits
 
 **Name of Student:** Akshat Lohiya
-**Number of Registration:** 24BSA10239
-**Selected Software:** VLC Media Player ## Script Descriptions
+* **Number of Registration:** 24BSA10239
+* **Selected Software:** VLC Media Player ## Script Descriptions
 * **Script 1 (System Identity Report):** Shows information about the Linux operating system, such as the kernel version, the current user, the amount of time it has been running, and the open-source license.
 * **Script 2 (FOSS Package Inspector):** Looks for VLC and gets its version and maintainer information using `dpkg`. It also prints a short note about philosophy.
 * **Script 3 (Disk and Permission Auditor):** Checks the sizes and permissions of important system directories and looks for the VLC configuration directory.
