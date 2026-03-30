@@ -1,0 +1,4 @@
+--- Open Source Manifesto ---
+Date: 30 March 2026
+
+Technology shapes our world. I rely on VLC Media PLayer every day to get things done. To me, the absolute core of open source is liberty. If I had the time and resources today, I would build Encryption & Decryption Tool and release it into the public domain for everyone to use.
