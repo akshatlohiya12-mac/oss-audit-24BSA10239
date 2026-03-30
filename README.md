@@ -9,7 +9,7 @@
 * **Script 2 (FOSS Package Inspector):** Looks for VLC and gets its version and maintainer information using `dpkg`. It also prints a short note about philosophy.
 * **Script 3 (Disk and Permission Auditor):** Checks the sizes and permissions of important system directories and looks for the VLC configuration directory.
 * **Script 4 (Log File Analyzer):** It reads a log file (`/var/log/dpkg.log`) line by line and counts how many times a certain word ("install") appears.
-* * **Script 5 (Manifesto Generator):** Asks the user three questions about open source and then makes a personalized `.txt` manifesto file.
+* **Script 5 (Manifesto Generator):** Asks the user three questions about open source and then makes a personalized `.txt` manifesto file.
 You need to have VLC Media Player installed on your Linux system for these scripts to work right.
 To install it, use the command "sudo apt update && sudo apt install vlc -y."
 
